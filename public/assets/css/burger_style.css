@@ -1,0 +1,21 @@
+body {
+  background-image: url("http://in-n-out.com/images/wallpapers/1600x1200/1600x1200x-1.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center; 
+  background-size: 100% 100%;
+  background-color: #cccccc;
+}
+
+img {
+  width: 80%;
+}
+
+.red_font {
+  color: #ffffff;
+}
+
+.tiny_text {
+  font-size: 11px;
+  color: #5da82f;
+}
